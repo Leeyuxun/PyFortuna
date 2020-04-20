@@ -1,6 +1,4 @@
 # PyFortuna
-<<<<<<< HEAD
-
 通过python实现Fortuna算法生成伪随机数
 
 ## 1. 设计思路
@@ -68,8 +66,3 @@
 程序运行结果如下，输出随机数的字节码，每次程序调用都会重新生成种子文件，实现了Fortuna算法的随机数生成。
 
 ![](/img/05.png)
-
-
-=======
-Using Python to implement pseudo-random number construction through Fortuna algorithm.
->>>>>>> 0ff762847e3dd46aa57a3e6f45eb9f67ba5771de
